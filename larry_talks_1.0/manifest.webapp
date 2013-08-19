@@ -1,0 +1,17 @@
+    {  
+      "version": "1.0",  
+      "name": "Larry Talks!",  
+      "launch_path": "/index.html",
+      "description": "Leisure Suit Larry Talks! Tap on Larry for a random image and a random quote!", 
+      "icons": {  
+        "30": "/icon-30.png",
+        "60": "/icon-60.png",  
+        "90": "/icon-90.png",
+        "128": "/icon-128.png"
+      },  
+      "developer": {  
+        "name": "Eisnerguy1",  
+        "url": "http://larrytalks-eisnerguy1.github.com"  
+      },  
+      "default_locale": "en"  
+    }  
